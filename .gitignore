@@ -1,10 +1,7 @@
-*.pyc
-*.swp
-.coverage
+# created by virtualenv automatically
+*
+pyvenv.cfg
 .idea
-conf/local.cfg
-static/*
-django.mo
-.env
-.vscode/*
-media
+bin
+lib
+conf/defaults.cfg

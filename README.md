@@ -73,3 +73,5 @@ pip3 install -U -r requirements/requirements-mysql.txt
 ./manage.py migrate cred 0004_upgrade_to_boostrap
 ./manage.py migrate cred 0005_credential_icons
 ```
+
+Wiki: https://github.com/pol1000000/CryptoRatt/wiki (bit outdated in some lines)
